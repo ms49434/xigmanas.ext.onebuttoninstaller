@@ -2,7 +2,13 @@
 /*
 	onebuttoninstaller-config.php
 
+	Copyright (c) 2020 - 2025 Michael Zoon
+	All rights reserved.
+
 	Copyright (c) 2015 - 2020 Andreas Schmidhuber
+	All rights reserved.
+
+	XigmaNAS® is a registered trademark of Michael Zoon. (zoon01@xigmanas.com).
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
@@ -32,9 +38,8 @@ require_once 'guiconfig.inc';
 
 $app = [
 	'name' => 'OneButtonInstaller',
-	'version' => 'v0.4.2',
+	'version' => 'v0.4.3',
 	'config.name' => 'onebuttoninstaller',
-//	'repository.path' => 'crestAT/nas4free-',
 	'repository.path' => 'ms49434/xigmanas.ext.'
 ];
 $app['repository.url'] = 'https://github.com/' . $app['repository.path'] . $app['config.name'];

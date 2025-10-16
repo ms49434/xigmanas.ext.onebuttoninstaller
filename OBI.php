@@ -5,6 +5,9 @@
 	Copyright (c) 2015 - 2020 Andreas Schmidhuber
 	All rights reserved.
 
+	XigmaNAS® is a registered trademark of Michael Zoon. (zoon01@xigmanas.com).
+	All rights reserved.
+
 	Redistribution and use in source and binary forms, with or without
 	modification, are permitted provided that the following conditions are met:
 

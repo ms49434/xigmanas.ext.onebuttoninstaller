@@ -1,8 +1,11 @@
-<?php
+﻿<?php
 /*
 	extension-lib.inc
 
 	Copyright (c) 2016 - 2020 Andreas Schmidhuber
+	All rights reserved.
+
+	XigmaNAS® is a registered trademark of Michael Zoon. (zoon01@xigmanas.com).
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
@@ -160,7 +163,7 @@ if(!function_exists('ext_create_rc_commands')):
 	}
 endif;
 /*	function ext_remove_rc_commands
- *	remove postinit / shutdown commands from rc array for both NAS4Free < 11.x and >= 11.x series
+ *	remove postinit / shutdown commands from rc array for < 11.x and >= 11.x series.
  *	params:
  *		$config_name:	string to identify the rc command entry in rc|postinit/shutdown|cmd or rc|param|value
  */

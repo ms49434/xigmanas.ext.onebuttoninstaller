@@ -1,8 +1,11 @@
-<!--
+﻿<!--
     spinner.inc
 
-    Copyright (c) 2015 - 2018 Andreas Schmidhuber
-    All rights reserved.
+	Copyright (c) 2015 - 2020 Andreas Schmidhuber
+	All rights reserved.
+
+	XigmaNAS® is a registered trademark of Michael Zoon. (zoon01@xigmanas.com).
+	All rights reserved.
 
     Uses spin.js by Felix Gnass (fgnass) at http://spin.js.org
 
